@@ -4,8 +4,8 @@ import { fileURLToPath } from 'url'
 
 global.owner = [
   ['51917611313', 'Destroyer', true], 
-  ['5492622689586'], 
-  ['5493885839638'], 
+  ['51921909260'], 
+  ['51933462225'], 
  ['573125484672'] 
   
 ] //Numeros de owner 
